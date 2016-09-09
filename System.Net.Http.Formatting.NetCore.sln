@@ -8,6 +8,7 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{91B11566-FFF4-4A82-BA51-651593F0157F}"
 	ProjectSection(SolutionItems) = preProject
 		global.json = global.json
+		README.md = README.md
 	EndProjectSection
 EndProject
 Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "System.Net.Http.Formatting.NetCore", "src\System.Net.Http.Formatting.NetCore\System.Net.Http.Formatting.NetCore.xproj", "{D07A8A96-8197-4069-9373-0641988A8D56}"
